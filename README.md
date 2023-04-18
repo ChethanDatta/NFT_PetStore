@@ -24,3 +24,7 @@ Open new terminal and start an emulator
 ```
 flow emulator
 ```
+Open new terminal and deploy the project
+```
+flow project deploy
+```
