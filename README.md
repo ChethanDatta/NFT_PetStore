@@ -19,3 +19,13 @@ NFT.storage account
 https://nft.storage/
 ```
 ------
+
+```
+npx create-react-app
+flow init
+```
+
+Open new terminal and start an emulator
+```
+flow emulator
+```
