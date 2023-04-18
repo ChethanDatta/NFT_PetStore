@@ -19,6 +19,7 @@ NFT.storage account
 https://nft.storage/
 ```
 ------
+### Steps 
 
 Open new terminal and start an emulator
 ```
@@ -28,3 +29,8 @@ Open new terminal and deploy the project
 ```
 flow project deploy
 ```
+next
+```
+flow transactions send src/flow/transaction/MintToken.cdc '{"name": "Max", "breed": "Bulldog"}'
+```
+#### The above command is giving error (must fix)
