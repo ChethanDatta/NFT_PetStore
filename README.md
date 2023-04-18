@@ -67,5 +67,5 @@ flow scripts execute src/flow/script/GetTokenIds.cdc
 ```
 
 ### Reference 
-https://nftschool.dev/tutorial/flow-nft-marketplace/#building-pet-store
+https://nftschool.dev/tutorial/flow-nft-marketplace/#building-pet-store <br/>
 https://github.com/jochasinga/flowwow/
