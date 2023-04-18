@@ -1,1 +1,3 @@
-public folder
+# Public folder 
+
+Contains frontend 
