@@ -25,3 +25,4 @@ pub fun main(id: UInt64) : {String: String} {
     // to do the grunt work of getting its token's metadata.
     return receiverRef.getTokenMetadata(id: id)
 }
+ 
